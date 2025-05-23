@@ -28,3 +28,4 @@ jobs:
           build_dir: docs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          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
